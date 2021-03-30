@@ -1,7 +1,7 @@
 # php-app
 sample php application to use with AWS RDS to check how the data is being stored in the database
 
-#Pre-requsites
+**prerequisite**
    ```
    yum install mysql -y
    yum install mysql-libs -y
