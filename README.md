@@ -15,6 +15,7 @@ $servername = "ramdb.cbbcw13tzpvs.eu-west-2.rds.amazonaws.com";  RDS endpoint
 $username = "ramdb";  # Database username 
 $password = "*****"; # Database password
 $dbname = "ramdb"; #Database name to insert data
+```
 
 **Login Mysql Database**
 
