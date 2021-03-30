@@ -1,7 +1,14 @@
 # php-app
 sample php application to use with AWS RDS to check how the data is being stored in the database
 
-in ram.php update below values with actual values
+#Pre-requsites
+   ```
+   yum install mysql -y
+   yum install mysql-libs -y
+   yum install php-mysql -y
+   ```
+
+In ram.php update below values with actual values
 
 ```
 $servername = "ramdb.cbbcw13tzpvs.eu-west-2.rds.amazonaws.com";  RDS endpoint 
