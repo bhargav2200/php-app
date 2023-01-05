@@ -1,8 +1,8 @@
 <?php
-$servername = "mywebsite.cgbfbhawd28m.ap-south-1.rds.amazonaws.com";
-$username = "admin";
-$password = "Admin123";
-$dbname = "persons";
+$servername = "ramdb.cbvpejuaz9mq.us-east-2.rds.amazonaws.com";
+$username = "ramdb";
+$password = "sandhya#123";
+$dbname = "ramdb";
 $id = $_POST["id"];
 $lastname = $_POST["lastname"];
 $firstname = $_POST["firstname"];
