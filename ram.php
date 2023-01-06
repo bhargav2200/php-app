@@ -1,5 +1,5 @@
 <?php
-$servername = "ramdb.cbvpejuaz9mq.us-east-2.rds.amazonaws.com";
+$servername = "ramdb.cbvpejuaz9mq.us-east-2.rds.amazonaws.com;
 $username = "ramdb";
 $password = "sandhya#123";
 $dbname = "ramdb";
